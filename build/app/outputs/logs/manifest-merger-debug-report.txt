@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:video_player] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:e2e] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\e2e\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:path_provider] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\c2371c6f64f748c73193d286ed408399\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\0334b34a69071e10bd81d179ef5f7e48\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\fe419b26c6dae22acd00608150855238\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\05e04ee75c8fa73409091bd021d97b26\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\rules-1.2.0.aar\b45cce5b94ef8512aa2975b938efd01d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\espresso-core-3.2.0.aar\9eb4320940f8fef28e51c909172f6302\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\runner-1.2.0.aar\3ace89496b5d671d0740d50c3add29fe\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1f370a1ec1c1dfdf30bae9171d4a5343\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\7d0f8f913fcf2bb15bf494a7be52e410\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\monitor-1.2.0.aar\61a031780f913b5018e8c66529de5bdd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\f3e59231ab5a5f1627dbf0fe740b3dad\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.2.0.aar\043fc4742846549ff803e598c312b805\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:2:3-45
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:4:3-32:17
+MERGED from [androidx.core:core:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1f370a1ec1c1dfdf30bae9171d4a5343\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1f370a1ec1c1dfdf30bae9171d4a5343\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\f3e59231ab5a5f1627dbf0fe740b3dad\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\f3e59231ab5a5f1627dbf0fe740b3dad\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1f370a1ec1c1dfdf30bae9171d4a5343\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:6:5-35
+	android:icon
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:5:5-39
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:7:5-53
+activity#io.flutter.plugins.cameraexample.EmbeddingV1Activity
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:8:5-19:16
+	android:launchMode
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:11:7-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:15:7-49
+	android:exported
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:12:7-30
+	android:configChanges
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:9:7-100
+	android:theme
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:13:7-42
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:16:7-18:31
+	android:value
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:18:9-29
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:17:9-74
+activity#io.flutter.plugins.cameraexample.MainActivity
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:20:5-31:16
+	android:launchMode
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:23:7-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:22:7-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:26:7-49
+	android:configChanges
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:21:7-100
+	android:theme
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:25:7-41
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:24:7-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:27:7-30:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:29:19-66
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:34:3-36:30
+	android:required
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:36:5-28
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:35:5-43
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:38:3-64
+	android:name
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml:38:20-62
+uses-sdk
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:video_player] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\video_player\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:e2e] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\e2e\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:e2e] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\e2e\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\c2371c6f64f748c73193d286ed408399\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-hls-2.9.6.aar\c2371c6f64f748c73193d286ed408399\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\0334b34a69071e10bd81d179ef5f7e48\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-dash-2.9.6.aar\0334b34a69071e10bd81d179ef5f7e48\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\fe419b26c6dae22acd00608150855238\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-smoothstreaming-2.9.6.aar\fe419b26c6dae22acd00608150855238\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\05e04ee75c8fa73409091bd021d97b26\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\05e04ee75c8fa73409091bd021d97b26\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\rules-1.2.0.aar\b45cce5b94ef8512aa2975b938efd01d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\rules-1.2.0.aar\b45cce5b94ef8512aa2975b938efd01d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\espresso-core-3.2.0.aar\9eb4320940f8fef28e51c909172f6302\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\espresso-core-3.2.0.aar\9eb4320940f8fef28e51c909172f6302\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\runner-1.2.0.aar\3ace89496b5d671d0740d50c3add29fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\runner-1.2.0.aar\3ace89496b5d671d0740d50c3add29fe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1f370a1ec1c1dfdf30bae9171d4a5343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1f370a1ec1c1dfdf30bae9171d4a5343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\7d0f8f913fcf2bb15bf494a7be52e410\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\7d0f8f913fcf2bb15bf494a7be52e410\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\monitor-1.2.0.aar\61a031780f913b5018e8c66529de5bdd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\monitor-1.2.0.aar\61a031780f913b5018e8c66529de5bdd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\f3e59231ab5a5f1627dbf0fe740b3dad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\f3e59231ab5a5f1627dbf0fe740b3dad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.2.0.aar\043fc4742846549ff803e598c312b805\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.2.0.aar\043fc4742846549ff803e598c312b805\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeason\Desktop\app\camera-0.5.6\example\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] C:\Users\Jeason\Desktop\app\camera-0.5.6\example\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\05e04ee75c8fa73409091bd021d97b26\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Users\Jeason\.gradle\caches\transforms-1\files-1.1\jetified-exoplayer-core-2.9.6.aar\05e04ee75c8fa73409091bd021d97b26\AndroidManifest.xml:24:22-76
